@@ -1,0 +1,17 @@
+admin|Physics|easy|5|100.0|Pass
+admin|Physics|medium|5|100.0|Merit
+admin|Physics|hard|5|100.0|Distinction
+Dan15|Maths|easy|5|100.0|Pass
+popburst2502|Maths|medium|4|80.0|Pass
+Dan15|Maths|hard|5|100.0|Distinction
+A.DURRANI|General knowledge|hard|5|100.0|Distinction
+Dan15|General knowledge|medium|5|100.0|Merit
+popburst2502|General knowledge|easy|5|100.0|Pass
+Dan15|Physics|hard|5|100.0|Distinction
+Wightman|Physics|hard|2|40.0|Merit
+admin|Maths|hard|4|80.0|Distinction
+A.DURRANI|Physics|easy|3|60.0|Pass
+Er1|Physics|easy|5|100.0|Pass
+jogden|Maths|hard|5|100.0|Distinction
+Dan15|Maths|hard|5|100.0|Distinction
+xXx_StreamSniper123_xXx|Physics|hard|4|80.0|Distinction
